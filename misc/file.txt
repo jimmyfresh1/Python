@@ -1,0 +1,64 @@
+- variable declaration x
+- log statement x 
+- type check x
+- length check x
+- comment
+    - single line
+    - multiline
+- Data Types
+    - Primitive
+        - Boolean x 
+        - Numbers x 
+        - Strings x 
+    - Composite
+        - List 
+            - initialize x
+            - access value
+            - change value
+            - add value
+            - delete value
+        - Tuples
+            - initialize x
+            - access value
+            - change value (NOT POSSIBLE
+            - add value
+            - delete value
+        - Dictionary
+            - initialize x
+            - access value x
+            - change value
+            - add value
+            - delete value
+- conditional x
+    - if x
+    - else if x
+    - else x
+- for loop x
+    - start x 
+    - stop x 
+    - increment x 
+    - break x
+    - continue x
+    - sequence x
+- while loop
+    - start x 
+    - stop x
+    - increment x
+- function
+    - parameter x
+    - argument x
+    - return
+
+* Bonus: Errors
+
+- NameError: name <variable name> is not defined
+- TypeError: 'tuple' object does not support item assignment
+- KeyError: 'favorite_team'
+- IndexError: list index out of range
+- IndentationError: unexpected indent
+- AttributeError: 'tuple' object has no attribute 'pop'
+- AttributeError: 'tuple' object has no attribute 'append'
+- Tuples
+    - change value
+    - add value
+    - delete value
