@@ -28,17 +28,14 @@ students = [
          {'first_name' : 'KB', 'last_name' : 'Tonel'}
     ]
 def iterateDictionary(my_list): 
-    for i in range(0, len(my_list)):
-        key_value_string =[]
-        for key in my_list[i]:
-            key_value_string.append(f"{key} - {my_list[i][key]}")
-        print(key_value_string)
+    for student in my_list:
+            print(student)
 iterateDictionary(students)
 
 ##3
 def iterateDictionary2(key_name, my_list):
-    for i in range (0, len(my_list)):
-            print (my_list[i][f'{key_name}'])
+    for student in my_list:
+            print (student[key_name])
 iterateDictionary2('first_name', students)
 
 #4
