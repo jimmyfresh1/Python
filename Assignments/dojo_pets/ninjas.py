@@ -15,8 +15,7 @@ class Ninja:
     def bathe(self):
         self.pet.noise()
 
-james = Ninja('james', 'bones', 'steak', 'Fido')
-james.pet = Pet('Fido', 'fire', 'roll', 100, 100)
+james = Ninja('james', 'bones', 'steak', Pet('Fido', 'fire', 'roll', 100, 100))
 print (james.name)
 print (james.pet.health)
 james.walk()
