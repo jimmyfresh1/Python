@@ -70,4 +70,3 @@ class Player ():
 # new_team[0].display()
 
 team_list= Player.get_team(players)
-team_list[2].display()
