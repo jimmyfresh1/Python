@@ -1,0 +1,36 @@
+.row-container {
+display:flex;
+}
+
+.row-container2 {
+display:flex;
+    }
+
+
+
+.row-red {
+height:50px;
+width:50px;
+background-color:rgb(255, 0, 0);
+justify-content: space-between;
+}
+
+.row-blue {
+    height:50px;
+    width:50px;
+    background-color:aqua;
+    justify-content: space-between;
+    }
+
+.board {
+    display:flex;
+}
+
+/* .column-blue{
+    height:50px;
+    width:50px;
+    background-color:red;
+    justify-content: space-between;
+
+}
+ */

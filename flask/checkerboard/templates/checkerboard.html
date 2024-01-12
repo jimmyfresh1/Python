@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<h1>{{num}}</h1>
+<h1>{{num2}}</h1>
+
+
+<div class="board"> 
+<!-- Open for loop for number of rows -->
+{%for i in range(0,num)%}
+    <!-- Check if odd or even to see how many rows to generate -->
+    {% if i%2 == 0%}
+        <!--  if even rowstyle1 -->
+        <div class="row-container">
+            <!-- Open loop for number of columns -->
+            {%for i in range(0,num2)%}
+                <!-- check if odd or even -->
+                {% if i%2 == 0%}
+                    <!-- if even block is red -->
+                    <div class="row-red">{{num}}</div>
+                {% else %}
+                    <!-- else block is blue -->
+                    <div class="row-blue">{{num}}</div>
+                <!-- end if statement checking if odd or even on the block level -->
+                {% endif %}
+            <!-- end loop through columns -->
+            {% endfor %}
+            <!-- one row is made -->
+        </div>
+    <!-- the case where i is odd, captured by else  -->
+    {% else %}
+    <!-- if odd do rowstyle2 -->
+    <div class="row-container2">
+        <!-- open loop for number of columns, again, same value as before though -->
+        <!-- seen another way, what generates each specific block -->
+        {%for i in range(0,num2)%}
+            <!-- the if statements are actually the same (even, then odd) but the colors are reversed -->
+            {% if i%2 == 0%}
+                <div class="row-blue">{{num}}</div>
+            {% else %}
+                <div class="row-red">{{num}}</div>
+            <!-- finish checking if even or odd  -->
+            {% endif %}
+        <!-- finish generating blocks on line -->
+        {% endfor %}
+    {% endif %}
+    </div>
+{% endfor %}
+</div>
+</body>
+</html>
