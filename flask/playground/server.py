@@ -9,10 +9,6 @@ def index():
 def success():
     return "Success"
 
-@app.route('/hello/<string:banana>/<int:num>')
-def hello(banana,num):
-    return render_template("hello.html", banana=banana, num=num)
-
 @app.route('/play/<string:arbitrary>/<int:num_sec>')
 def playground(arbitrary,num_sec):
     return render_template("play.html", arbitrary=arbitrary, num_sec=num_sec)
