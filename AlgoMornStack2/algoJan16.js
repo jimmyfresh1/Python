@@ -8,7 +8,7 @@ const expected1 = {
   a: 3,
 };
 
-const arr2 = ["a", "b", "a", "c", "B", "c", "c", "d"];
+const arr2 = ["a", "b", "a", "c", "B", "c", "c", "d", "c", "c"];
 const expected2 = {
   a: 2,
   b: 1,
@@ -30,14 +30,17 @@ const expected3 = {};
  */
 function makeFrequencyTable(arr) {
     let stringdict={}
+    stringdict['dog']=1
     for (var i = 0 ; i<arr.length; i++) {
         let temp=arr[i]
+        
         if (!(temp in stringdict)) {
             stringdict[temp] = 1
-
+            
         }
         else {
             stringdict[temp]+=1
+            stringdict['dog']+=1
         }
         
 

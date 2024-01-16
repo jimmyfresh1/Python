@@ -7,5 +7,21 @@
 </head>
 <body>
     <h1>Hello Flask</h1>
+    <p>Total Count: {{total_count}}"</p>
+    <p>User Added Count: {{added}}"</p>
+    <p>True Visit: {{total_count-added}}"</p>
+
+    <form action='/add_two' method='POST'>
+        <button >Add Two</button>
+    </form>
+
+    <form action='/destroy_session' method='POST'>
+        <button >RESET</button>
+    </form>
+
+    <form action="/add_any" method='POST'>
+        <input type="text" name="adder">
+        <button type="submit">Submit</button>
+    </form>
 </body>
 </html>
