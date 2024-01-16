@@ -10,17 +10,16 @@ def index():
 @app.route('/users' , methods=['POST'])
 def create_user():
     print("Got Post Info")
-    session['username'] = request.form 
+    session['username'] = request.form
     ['username']
     session ['useremail'] = request.form
     ['useremail']
-
     return redirect('/show')
-
 
 @app.route('/show')
 def show_user():
     return render_template('show.html', name_on_template=session['username'], email_on_template=session['useremail'])
+    print(request.form)
 
 
 
