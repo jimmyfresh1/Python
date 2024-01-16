@@ -1,0 +1,17 @@
+.main {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+#guessSquare {
+    width:200px;
+    height:200px;
+    color:aliceblue;
+    background-color:red;
+    border-color:black;
+    margin-bottom:20px;
+}
+
+
+
