@@ -60,7 +60,7 @@ function reverseStrings(str) {
         let reverseWord = []
         
         reverseWord = myRevWord(newarr[i])
-        finalString += reverseWord 
+        finalString += (" " + reverseWord)
         console.log(reverseWord)
     }
     return finalString
