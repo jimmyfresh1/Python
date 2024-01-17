@@ -12,31 +12,26 @@ function mySplit(str) {
     let newarr=[]
     let word = ''
     for (var i = 0 ; i<str.length ; i++){
-        console.log(str[i])
-        console.log(word)
+
         if (str[i] == ' ' || str[i]== (str[str.length-1])){
             if (str[i]== (str[str.length-1])){
                 word+=str[i]
                 newarr.push(word)
             }
             else{
-            console.log('Im here!')
             newarr.push(word)
-            console.log('test',word)
-            console.log('test2',newarr)
             word=''
         }
         }
         else {
             word += str[i]
         }
-        console.log(newarr)
 
     }
-    
-    console.log(newarr)
     return newarr
 }
+var split_test=mySplit(str2)
+console.log('split test', split_test)
 
 function myRevWord(word){
     var revWord = ''
@@ -49,8 +44,8 @@ function myRevWord(word){
 
 // mySplit(str2)
 
-var print_here=myRevWord('TESTESTE')
-console.log(print_here)
+var print_here=myRevWord('Reverseme')
+console.log("rev word test", print_here)
 
 function reverseStrings(str) {
     var newarr = []
@@ -60,10 +55,15 @@ function reverseStrings(str) {
         let reverseWord = []
         
         reverseWord = myRevWord(newarr[i])
+        if (finalString ==''){
+            finalString+= reverseWord
+        }
+        else {
         finalString += (" " + reverseWord)
-        console.log(reverseWord)
+
+    }
     }
     return finalString
 }
 var final_print=reverseStrings(str2)
-console.log(final_print)
+console.log("final test. " , final_print)
