@@ -1,3 +1,5 @@
+
+
 .main {
     display:flex;
     flex-direction:column;
@@ -5,13 +7,34 @@
 }
 
 #guessSquare {
-    width:200px;
+    width:500px;
     height:200px;
-    color:aliceblue;
+    color:gold;
     background-color:red;
     border-color:black;
     margin-bottom:20px;
+    font-size:30px;
+    align-items:center;
+    justify-content: center;
 }
 
+#guessSquare .lose {
 
+}
 
+#guessSquare .win{
+    background-color:green;
+}
+
+.guessinput {
+    border-radius:10%;
+    background-color: darkslategray;
+    height:150px;
+    display:flex;
+    flex-direction: column;
+}
+
+.guessinput  p{
+font-size:16px;
+color:gold;
+}

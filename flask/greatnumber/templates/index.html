@@ -10,12 +10,19 @@
 <body>
     <div class="main">
         <h1>Welcome to the Great Number Game!</h1>
-        <p>Welcome to the Great Number Game!</p>
-        <div id="guessSquare" >{{display}} {{message}}</div>
-        <form id="submit_number" action="/guess"  method="post">
-            <input type="text" name="guess">
-            <button id="butwow" type="submit">submit</button>
-        </form>
+        <p>I am thinking of a number between 1 and 100</p>
+        <div id="guessSquare" class = {{result_class}} >
+            
+           <p> {{display}} </p>
+           <p>{{message}}</p>
+        </div>
+        <div class="guessinput">
+            <form id="submit_number" action="/guess"  method="post">
+                <p> Take a guess!</p>
+                <input type="text" name="guess">
+                <button id="butwow" type="submit">Guess</button>
+            </form>
+        </div>
     </div>
 </body>
 </html>

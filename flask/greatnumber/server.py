@@ -16,26 +16,37 @@ def index():
 
 @app.route('/guess',methods= ['GET', 'POST'])
 def guess():
-    session['count']=1
+    if 'count' not in session:
+        session['count']=1
+    else: 
+        session['count'] +=1
     session['guess'] = request.form['guess']
     try:
         user_guess=int(session['guess'])
+        if session['count'] >=5:
+            session['result']= "You lose! Good day, sir!"
+            result_class= "lose"
+            session['game_over'] = True
+            return redirect(url_for('/index', result_class=result_class))
         if user_guess > computers_numb:
             print(computers_numb)
             session['result']="Too high!"
-            return redirect("/")
+            return redirect('/')
         if user_guess < computers_numb:
             print(computers_numb)
             session['result']="Too low!"
-
-            return redirect ("/")
+            return redirect('/')
         if user_guess == computers_numb:
             print(computers_numb)
             session['result']="Just right!"
-            return redirect("/")
+            result_class="win"
+            return redirect(url_for('/index', result_class=result_class))
     except ValueError:
         session['result']=user_guess="invalid"
         return redirect("/")
+@app.route('/play_again')
+def play_again():
+    session.clear()
 
 # @app.route('/high')
 #     return redirect("/")
