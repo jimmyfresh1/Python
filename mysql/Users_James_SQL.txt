@@ -1,0 +1,38 @@
+INSERT INTO users (first_name, last_name, created_at, updated_at)
+VALUES
+("James", "Fern", NOW(), NOW()),
+("Vicky", "Twern", NOW(), NOW()),
+("Billy", "Bern", NOW(), NOW());
+SELECT * FROM users;
+ALTER TABLE users ADD COLUMN email_address VARCHAR(100); //note: I think I used the wrong schema, so i just added
+SELECT * FROM users;
+INSERT INTO users (email_address)
+VALUES 
+("james@gmail.com"),
+("vicky@hotmail.net"),
+("billybobjoe@aol.org");
+SELECT * FROM users; //note : whoops. that was incorrect. 
+DELETE FROM `friendships_schema`.`users` 
+WHERE `id` = 4 OR `id`=5 OR `id` =6
+SELECT * FROM users;
+UPDATE users
+SET email_address= "james@gmail.com"
+WHERE `id` =1; 
+SELECT * 
+FROM users
+WHERE email_address = "james@gmail.com"
+SELECT * 
+FROM users
+WHERE id = 3;
+UPDATE users
+SET last_name = "Pancakes"
+WHERE id =3;
+SELECT * FROM users;
+DELETE FROM `friendships_schema`.`users` 
+WHERE `id` = 2;
+SELECT * 
+FROM users
+ORDER by first_name ASC;
+SELECT * 
+FROM users
+ORDER by first_name DESC;

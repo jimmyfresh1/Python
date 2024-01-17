@@ -10,11 +10,22 @@
 <body>
     <div class="main">
         <h1>Welcome to the Great Number Game!</h1>
+
         <p>I am thinking of a number between 1 and 100</p>
         <div id="guessSquare" class = {{result_class}} >
-            
            <p> {{display}} </p>
            <p>{{message}}</p>
+           {% if game_over %}
+               <form action="/play-again">
+                   <button type="submit">Play again?</button>
+               </form>
+           {% endif %}
+           {% if win %}
+               <form action="/play-again">
+                   <button type="submit">Play again?</button>
+                   <p>"Only took you {{counter}} tries!"</p>
+               </form>
+           {% endif %}
         </div>
         <div class="guessinput">
             <form id="submit_number" action="/guess"  method="post">
