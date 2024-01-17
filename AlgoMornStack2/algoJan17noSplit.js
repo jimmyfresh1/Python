@@ -8,7 +8,7 @@ const expected2 = "olleh dlrow";
 const str3 = "abc def ghi";
 const expected3 = "cba fed ihg";
 
-function reverseWords(str) {
+function mySplit(str) {
     let newarr=[]
     let word = ''
     for (var i = 0 ; i<str.length ; i++){
@@ -37,4 +37,33 @@ function reverseWords(str) {
     console.log(newarr)
     return newarr
 }
-reverseWords(str2)
+
+function myRevWord(word){
+    var revWord = ''
+    for (var i = (word.length-1) ; i>=0 ; i --){
+        revWord += word[i]
+        }
+        return revWord
+    }
+    
+
+// mySplit(str2)
+
+var print_here=myRevWord('TESTESTE')
+console.log(print_here)
+
+function reverseStrings(str) {
+    var newarr = []
+    var finalString = ''
+    newarr= mySplit(str)
+    for (var i = 0 ; i<newarr.length; i++){
+        let reverseWord = []
+        
+        reverseWord = myRevWord(newarr[i])
+        finalString += reverseWord 
+        console.log(reverseWord)
+    }
+    return finalString
+}
+var final_print=reverseStrings(str2)
+console.log(final_print)
