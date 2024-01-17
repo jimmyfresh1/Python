@@ -15,14 +15,15 @@ function reverseWords(str) {
         console.log(str[i])
         console.log(word)
         if (str[i] == ' ' || str[i]== (str[str.length-1])){
+            if (str[i]== (str[str.length-1])){
+                word+=str[i]
+                newarr.push(word)
+            }
+            else{
             console.log('Im here!')
             newarr.push(word)
             console.log('test',word)
             console.log('test2',newarr)
-            if (str[i]== (str[str.length-1])){
-                word+=str[i]
-            }
-            else{
             word=''
         }
         }
