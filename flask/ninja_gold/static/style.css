@@ -1,0 +1,14 @@
+.activity-log-box {
+    height: 150px; 
+    overflow-y: scroll; 
+    border: 1px solid #ccc; 
+}
+
+#activity-log  {
+    list-style-type: none;
+    padding: 0;
+}
+
+#activity-log li {
+    margin: 5px 0; 
+}
