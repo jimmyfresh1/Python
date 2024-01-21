@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Character</title>
+</head>
+<body>
+    <a href="/characters">Back to all Characters</a>
+    <h1>Add a Character!</h1>
+
+    <form action="/create_character" method="POST">
+        <label>Name</label>
+        <input type="text" name="name">
+        <br>
+        <label>Movie:</label>
+        <select name="movie_id">
+            {% for movie in movies %}
+                <option value="{{movie.id}}">{{movie.title}}</option>
+            {% endfor %}
+
+        </select>
+        <br>
+        <button> Add Character!</button>
+
+
+    </form>
+</body>
+</html>

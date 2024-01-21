@@ -1,0 +1,12 @@
+use friendships_schema;
+select * from users;
+NOTE: relevant ids start at 7 because I used this database for another exercise I think 
+INSERT INTO friendships (user_id, friend_id)
+VALUES (7, 12), (7, 8), (7, 10), (8,7 ),(8,9 ), (8, 11), (9, 8), (9, 11), (10, 9), (11, 7), (11,12), (12,8), (12, 9);
+SELECT users.first_name AS reference_name, users2.first_name AS friend_name 
+FROM users  
+LEFT JOIN friendships
+ON users.id= friendships.user_id 
+LEFT JOIN users AS users2
+ON users2.id= friendships.friend_id 
+WHERE users.id=7;

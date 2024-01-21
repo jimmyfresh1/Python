@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All movies</title>
+</head>
+<body>
+    
+    <h1>Welcome to allMovies.com!</h1>
+    <a href="/new_movie">Add a movie!</a>
+    <a href="/characters">Characters</a>
+    {% for movie in movies_list %}
+        <hr>
+        <h3>{{movie.title}} ({{movie.release_year}})</h3>
+        <p>{{movie.description}}</p>
+        <p>Rated {{movie.rating}} Length: {{movie.length}}</p>
+        <a style="color:red; font-weight: bold" href="/delete/{{movie.id}}">DELETE</a>
+        <a style="color:goldenrod; font-weight: bold" href="/update/{{movie.id}}">EDIT</a>
+        <hr>
+    {% endfor %}
+        
+
+    <!-- <h3>Spiderman No Way Home</h3>
+    <h3>Thelma and Louise</h3>
+    <h3>Avatar: Way of Water</h3>
+    <h3>Ponyo</h3>
+    <h3>Harry Potter</h3> -->
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+INSERT into movies (title, release_year, rating, length, description, created_at,updated_at)
+VALUES
+("Harry Potter", "1998", "PG", "2 hours", "Harry fights Voldemort", NOW(), NOW()),
+("Harry Potter1", "1999", "PG", "2 hours", "Harry fights Voldemort and a Snake", NOW(), NOW()),
+("Harry Potter2", "2000", "PG-13", "2 hours thirty minutes", "Harry doesn't fight Voldemort", NOW(), NOW()),
+("Harry Potter3", "2001", "PG-13", "4 hours", "Harry fights Voldemort and Voldemort kills Cedric", NOW(), NOW());
+
+INSERT into characters (name, created_at, updated_at, movie_id)
+VALUES 
+("HarryHimself", NOW(), NOW(), 1),
+("Dumbledore", NOW(), NOW(), 1),
+("Tom Riddle", NOW(), NOW(), 2),
+("Moaning Myrtle", NOW(), NOW(), 2),
+("Sirius", NOW(), NOW(), 3),
+("Remus Lupin", NOW(), NOW(), 3),
+("Cedric Diggory", NOW(), NOW(), 4),
+("Madeye Moody", NOW(), NOW(), 4);
+
+select * 
+from characters
+join movies on movies.id= characters.movie_id

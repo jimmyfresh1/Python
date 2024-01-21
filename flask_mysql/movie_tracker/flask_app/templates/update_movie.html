@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update movie!</title>
+</head>
+<body>
+    <a href="/">Home</a>
+    <h3>Update a movie!</h3>
+
+    <form action="/save" method="POST">
+        <hr>
+        <label>Title:</label>
+        <input type="text" name="title" value="{{movie.title}}">
+        <br>
+        <label>Description:</label>
+        <textarea name="description">{{movie.description}}</textarea>
+        <br>
+        <label>Year:</label>
+        <input type="number" name="release_year" value="{{movie.release_year}}">
+        <br>
+        <label>Rating:</label>
+        <input type="text" name="rating" value="{{movie.rating}}">
+        <br>
+        <label>Length:</label>
+        <input type="text" name="length" value="{{movie.length}}">
+        <br>
+        <input type="hidden" name="id" value="{{movie.id}}">
+        <button>Submit</button>
+
+    </form>
+</body>
+</html>

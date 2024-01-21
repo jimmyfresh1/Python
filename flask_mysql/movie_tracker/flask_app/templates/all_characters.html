@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Characters</title>
+</head>
+<body>
+    <a href="/">Back to Movies</a>
+    <h1>Here's all the characters</h1>
+    <a href="/new_character">Add a character</a>
+    <table>
+        <thead>
+            <th>Character Name</th>
+            <th>Movie</th>
+        </thead>
+        <tbody>
+
+            {% for character in characters %}
+                <tr>
+                    <td>{{character.name}}</td>
+                    <td>{{character.movie.title}}</td>
+                </tr>
+            {% endfor %}
+
+
+        </tbody>
+    </table>
+</body>
+</html>

@@ -21,4 +21,4 @@ class Parrot(Pet):
     def noise(self):
         "Squawk! Password1234! Squawk!"
     def uhoh(self):
-        "SQUAWK! Don't worry, they're not home right now. SQUAWK!"
+        "SQUAWK! Don't worry, he's not home right now. SQUAWK!"

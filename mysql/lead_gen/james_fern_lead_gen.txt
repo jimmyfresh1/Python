@@ -1,0 +1,93 @@
+
+1.
+SELECT SUM(billing.amount) as March_Revenue
+from billing 
+where charged_datetime >= '2012/03/01' AND charged_datetime < '2012/04/01'
+
+NOTE: This sums it all up for the whole month. DON'T select for date or else you'll get an error. (basically, you get one number from the sum of every date, but how are you gonna show that at the same time as you show every date?)
+If you want to select for date you'll end up with something like this:
+SELECT DATE(billing.charged_datetime) as date, SUM(billing.amount)
+from billing 
+where charged_datetime >= '2012/03/01' AND charged_datetime < '2012/04/01'
+GROUP BY DATE(billing.charged_datetime);
+
+where instead you get the daily sums.
+
+2. SELECT SUM(billing.amount) as Client2Revenue
+from billing
+join clients ON billing.client_id = clients.client_id
+WHERE clients.client_id=2
+
+3. SELECT clients.client_id, clients.first_name, clients.last_name, sites.domain_name
+from clients
+join sites on sites.client_id=clients.client_id
+where clients.client_id=10
+
+(SELECT clients.client_id, clients.first_name, clients.last_name, sites.domain_name
+from clients
+join sites on sites.client_id=clients.client_id
+where sites.client_id=10) is equivalent
+
+4. SELECT YEAR(created_datetime) as Year, MONTH(created_datetime) as Month, COUNT(site_id), clients.first_name, clients.last_name
+from clients
+join sites on sites.client_id=clients.client_id
+where sites.client_id=1
+GROUP BY YEAR(created_datetime), MONTH(created_datetime)
+ORDER BY YEAR(created_datetime), MONTH(created_datetime)
+
+5. SELECT COUNT(leads_id), sites.domain_name as website
+from leads
+join sites ON sites.site_id = leads.site_id
+where leads.registered_datetime >= '2011/01/01' AND leads.registered_datetime < '2011/02/15'
+GROUP BY website;
+
+6. SELECT clients.first_name, clients.last_name, COUNT(leads.leads_id)
+FROM clients
+JOIN sites ON sites.client_id=clients.client_id
+JOIN leads ON leads.site_id=sites.site_id
+where YEAR(leads.registered_datetime) =2011
+GROUP BY clients.first_name, clients.last_name
+ORDER BY clients.first_name DESC;
+
+
+7. SELECT clients.first_name, clients.last_name, COUNT(leads.leads_id) as leads_per_month, MONTH(registered_datetime) as Month
+FROM clients
+JOIN sites ON sites.client_id=clients.client_id
+JOIN leads ON leads.site_id=sites.site_id
+where leads.registered_datetime >= '2011/01/01' AND leads.registered_datetime < '2011/06/01'
+GROUP BY clients.first_name, clients.last_name, MONTH(registered_datetime);
+
+NOTE: Group by actually changes how it counts. If you remove clients names and fix syntax, for example, it'll count total leads in a month, instead of total leads per person in a month
+for example in january there were two total leads, but they were by two different people. 
+
+8. SELECT clients.first_name, clients.last_name, COUNT(leads.leads_id), sites.domain_name
+FROM clients
+JOIN sites on sites.client_id = clients.client_id
+JOIN leads ON leads.site_id = sites.site_id
+where YEAR(leads.registered_datetime) =2011
+GROUP BY clients.first_name, clients.last_name, sites.domain_name
+ORDER BY clients.first_name DESC;
+
+SELECT clients.first_name, clients.last_name, COUNT(leads.leads_id), sites.domain_name
+FROM clients
+JOIN sites on sites.client_id = clients.client_id
+JOIN leads ON leads.site_id = sites.site_id
+GROUP BY clients.first_name, clients.last_name, sites.domain_name
+ORDER BY clients.first_name DESC;
+
+9. SELECT clients.first_name, clients.last_name, SUM(billing.amount) as Revenue, MONTH(charged_datetime) as Month
+FROM clients
+JOIN billing on billing.client_id = clients.client_id
+GROUP BY Month, clients.first_name, clients.last_name
+ORDER BY Month
+
+SELECT clients.first_name, clients.last_name, SUM(billing.amount) as Revenue, MONTHNAME(charged_datetime) as Month
+FROM clients
+JOIN billing on billing.client_id = clients.client_id
+GROUP BY Month, clients.first_name, clients.last_name
+ORDER BY Month
+
+10. SELECT clients.first_name, clients.last_name, GROUP_CONCAT(sites.domain_name)
+FROM clients
+JOIN sites on sites.client_id=clients.client_id
+GROUP BY clients.first_name, clients.last_name 

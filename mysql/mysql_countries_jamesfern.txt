@@ -1,0 +1,62 @@
+
+1. 
+select countries.name as country_name, language, percentage
+FROM countries
+JOIN languages on countries.id=languages.country_id
+WHERE language ="Slovene"
+
+Notes: in select, both FROM tables and JOIN tables are valid tables to SELECT columns from 
+
+2. 
+select countries.name AS country, COUNT(cities.name) AS cities
+FROM countries 
+JOIN cities on countries.id = cities.country_id 
+GROUP BY country
+ORDER BY cities DESC;
+
+
+3. 
+SELECT countries.name AS country_name, cities.name AS city, cities.population
+FROM cities
+JOIN countries ON cities.country_id=countries.id
+WHERE countries.name = "Mexico"
+AND cities.population > 500000
+ORDER BY cities.population DESC;
+
+NOTE: normal numerical logic seems to work fine in MySQL. WHERE is pretty similar to an IF statement. Select is like a print statement.
+
+4. 
+SELECT countries.name AS country_name, languages.language AS language, languages.percentage as speaking_percentage
+FROM countries
+JOIN languages on languages.country_id = countries.id
+WHERE languages.percentage > 89
+ORDER BY languages.percentage DESC;
+
+5. 
+SELECT countries.name as country_name, countries.surface_area as surface_area, cities.population 
+FROM cities
+JOIN countries ON cities.country_id = countries.id 
+WHERE surface_area < 501 AND cities.population >100000
+
+NOTE: (SELECT countries.name as country_name, countries.surface_area as surface_area, cities.population 
+FROM countries
+JOIN cities ON cities.country_id = countries.id 
+WHERE surface_area < 501 AND cities.population >100000) also works. looks like FROM and JOIN are mutable? 
+
+6. SELECT countries.name as country_name, countries.government_form as gov_type, countries.capital as capital, life_expectancy
+FROM countries
+WHERE capital > 200 AND life_expectancy > 75;
+
+
+7. SELECT countries.name as country_name, cities.name as city_name, cities.district as district, cities.population as city_population
+FROM countries
+JOIN cities on cities.country_id = countries.id
+WHERE cities.district = "Buenos Aires" AND cities.population>500000;
+
+NOTE: my ability to use the "given nickname" in the WHERE caluse seems dependent on which is my FROM table
+
+
+8. SELECT countries.region, COUNT(countries.name) as country_number
+FROM countries
+GROUP BY countries.region
+ORDER BY  country_number DESC
