@@ -1,4 +1,5 @@
 from flask_app.config.mysqlconnection import connectToMySQL
+
 class Model:
     def __init__( self , data ):
         self.id = data['id']
