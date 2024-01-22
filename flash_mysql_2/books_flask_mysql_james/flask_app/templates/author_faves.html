@@ -6,56 +6,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 </head>
 
 <body>
-    
+
     {% for author in authors %}
     {% if author.id==author_id %}
-        <h1>{{author.full_name}}</h1>
+    <h1>{{author.full_name}}</h1>
     {% endif %}
     {% endfor %}
     <div class="row">
-    <div class="col-2">
-        <div class=" p-3 border border-dark border-3" >
-            <h2>Books This Specific Author Favorited</h2>
-            <table>
-                <thead>
-                    <th>Name</th>
+        <div class="col-2">
+            <div class=" p-3 border border-dark border-3">
+                <h2>Books This Specific Author Favorited</h2>
+                <table>
+                    <thead>
+                        <th>Name</th>
 
-                </thead>
-                {% for book in author_favorites_list %}
-                <tr>
-                    <td>{{book.title}}</td>
-                    <td>{{book.num_of_pages}}</td>
-                </tr>
-                {% endfor %}
-            </table>
+                    </thead>
+                    {% for book in author_favorites_list %}
+                    <tr>
+                        <td>{{book.title}}</td>
+                        <td>{{book.num_of_pages}}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
         </div>
-    </div>
-    <div class="col-2">
-        <div class=" p-3 border border-dark border-3" >
-            <h2>Add New Book This Author Loves</h2>
-            <form action="/process_author_favorite_add" method="POST">
-                <label>Book Select</label>
-                <select name="book_id">
-                    {% for book in list_of_books  %}
-                    {% if book.title not in books_author_favorited_titles %}
+        <div class="col-2">
+            <div class=" p-3 border border-dark border-3">
+                <h2>Add New Book This Author Loves</h2>
+                <form action="/process_author_favorite_add" method="POST">
+                    <label>Book Select</label>
+                    <select name="book_id">
+                        {% for book in list_of_books %}
+                        {% if book.title not in books_author_favorited_titles %}
                         <option value="{{book.id}}">{{book.title}}</option>
                         {% endif %}
                         {% endfor %}
                     </select>
                     <input type="hidden" name="author_id" value="{{ author_id }}">
 
-                <br><br>
+                    <br><br>
                     <button>Create</button>
 
                 </form>
 
+            </div>
         </div>
-    </div>
-    <a href="/authors">Home</a>
+        <a href="/authors">Home</a>
 
     </div>
 </body>
