@@ -40,7 +40,7 @@
                 <label>Author Select</label>
                 <select name="author_id">
                     {% for author in authors  %}
-                    {% if author not in favorited_by_list %}
+                    {% if author.full_name not in favorited_by_names %}
                         <option value="{{author.id}}">{{author.full_name}}</option>
                     {% endif  %}
                     {% endfor %}

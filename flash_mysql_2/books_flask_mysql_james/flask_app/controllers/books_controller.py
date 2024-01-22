@@ -18,8 +18,9 @@ def create_book():
 def faved_by(book_id):
     favorited_by_list = Book.get_book_faved_by(book_id)
     authors=author_model.Author.get_all()
+    favorited_by_names = [author.full_name for author in favorited_by_list]
     books = Book.get_all()
-    return render_template ("book_faved.html", favorited_by_list=favorited_by_list, books=books, book_id=book_id,authors=authors)
+    return render_template ("book_faved.html", favorited_by_list=favorited_by_list, books=books, book_id=book_id,authors=authors,favorited_by_names =favorited_by_names)
 
 @app.route('/process_book_faved_by', methods=['POST'])
 def process_book_faved_by():
