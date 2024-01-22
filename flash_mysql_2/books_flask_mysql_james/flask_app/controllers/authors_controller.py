@@ -24,10 +24,8 @@ def author_favorites(author_id):
     author_favorites_list= Author.get_author_faves(author_id)
     list_of_books=book_model.Book.get_all()
     authors=Author.get_all()
-    print(f"author_id type: {type(author_id)}, value: {author_id}")
-    for author in authors:
-        print(f"author.id type: {type(author.id)}, value: {author.id}")
-    return render_template ("author_faves.html", author_favorites_list=author_favorites_list, list_of_books=list_of_books,author_id=author_id, authors=authors)
+    books_author_favorited_titles =[book.title for book in author_favorites_list]
+    return render_template ("author_faves.html", author_favorites_list=author_favorites_list, list_of_books=list_of_books,author_id=author_id, authors=authors,books_author_favorited_titles=books_author_favorited_titles)
 
 @app.route('/process_author_favorite_add', methods=['POST'])
 def process_author_favorite_add():
@@ -35,5 +33,5 @@ def process_author_favorite_add():
     author_id=request.form['author_id']
     for i in range(10):
         print(author_id)
-    Author.new_author_fave(request.form)
+    Author.new_author_fave(request.form)    
     return redirect(f'/authors/{author_id}')

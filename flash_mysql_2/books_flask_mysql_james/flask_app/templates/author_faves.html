@@ -41,7 +41,9 @@
                 <label>Book Select</label>
                 <select name="book_id">
                     {% for book in list_of_books  %}
+                    {% if book.title not in books_author_favorited_titles %}
                         <option value="{{book.id}}">{{book.title}}</option>
+                        {% endif %}
                         {% endfor %}
                     </select>
                     <input type="hidden" name="author_id" value="{{ author_id }}">
