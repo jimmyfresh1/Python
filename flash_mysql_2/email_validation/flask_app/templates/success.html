@@ -39,6 +39,14 @@
                     </tr> -->
                 </table>
             </div>
+            <form action="/delete" method="POST">
+                <select name="delete" >
+                    {% for email in emails %}
+                    <option value="{{email.email}}">{{email.email}}</option>
+                    {% endfor %}
+                </select>
+                <button>Delete</button>
+            </form>
         </div>
     </div>
 </body>

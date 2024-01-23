@@ -26,10 +26,25 @@ class Email:
         for row in results:
             emails.append(cls(row))
         return emails
+    @classmethod
+    def uniqueness_test(cls,form):
+        is_valid=True
+        query = "SELECT * FROM emails_table WHERE email_addresses = %(email)s"
+        results = connectToMySQL('email_schema').query_db(query, form)
+        if len(results) > 0 :
+            flash("Email already exists!!")
+            is_valid=False
+        return is_valid
+    @classmethod
+    def delete_email(cls,form):
+        query = "DELETE FROM emails_table WHERE email_addresses=%(delete)s;"
+        connectToMySQL('email_schema').query_db(query, form)
+
+
     @staticmethod
     def validate(form):
         is_valid=True
         if not EMAIL_REGEX.match(form['email']): 
             flash("Invalid email address!")
             is_valid = False
-        return is_valid
+        return is_valid 
