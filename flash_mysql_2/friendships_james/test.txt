@@ -1,0 +1,11 @@
+SELECT
+    CONCAT(users1.first_name," ", users1.last_name) AS user_full_name,
+    CONCAT(friends.first_name," ", friends.last_name) AS friends_full_name,
+    friendships.id AS friendship_id
+    
+FROM
+    users AS users1
+JOIN
+    friendships ON friendships.user_id = users1.id
+JOIN
+    users AS friends ON friendships.friend_id = friends.id;
