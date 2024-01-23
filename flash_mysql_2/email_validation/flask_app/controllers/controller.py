@@ -5,6 +5,12 @@ from flask_app.models.model import Email
 @app.route('/')
 def home():
     return render_template("index.html")
-@app.route('/success')
+@app.route('/success',methods= ['POST'])
 def succeed():
-    Email.validate(request.form)
+    
+    if not Email.validate(request.form):
+        return redirect('/')
+    Email.create(request.form)
+    emails = Email.get_all()
+    newmail=request.form['email']
+    return render_template('success.html', emails=emails, newmail=newmail)
