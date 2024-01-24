@@ -1,5 +1,8 @@
 from flask_app.config.mysqlconnection import connectToMySQL
-from flask_app.models import sasight_model
+from flask_app.models import post_model
+from flask import flash
+import re
+EMAIL_REGEX = re.compile(r'^[a-zA-Z0-9.+_-]+@[a-zA-Z0-9._-]+\.[a-zA-Z]+$')
 DATABASE = "books_schema"
 
 
@@ -12,6 +15,11 @@ class User:
         self.password=data['password']
         self.created_at= data['created_at']
         self.updated_at= data['updated_at']
+
+
+
+    
+
     @classmethod
     def create (cls,form):
         query = """
@@ -64,17 +72,7 @@ class User:
             is_valid = False
         return is_valid
 
-    def uniqueness_test(form):
-        is_valid=True
-        print("I'm looking!")
-        query = "SELECT * FROM users WHERE email = %(email)s"
-        results = connectToMySQL('login_schema').query_db(query, form)
-        if len(results) > 0:
-            print("We found it!")
-            flash("Email already exists!!", "register")
-            is_valid=False
-        return is_valid
-    
+    @staticmethod
     def validate_login(form):
         is_valid=True
         if len (form['email'])<3:
@@ -85,3 +83,15 @@ class User:
             is_valid= False
     def quickflash():
         flash("That password isn't right", "login")
+
+    @staticmethod
+    def uniqueness_test(form):
+        is_valid=True
+        print("I'm looking!")
+        query = "SELECT * FROM users WHERE email = %(email)s"
+        results = connectToMySQL(DATABASE).query_db(query, form)
+        if len(results) > 0:
+            print("We found it!")
+            flash("Account already exists!!", "register")
+            is_valid=False
+        return is_valid
