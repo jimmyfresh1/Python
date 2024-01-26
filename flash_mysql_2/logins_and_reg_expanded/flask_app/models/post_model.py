@@ -22,7 +22,7 @@ class Recipe:
             VALUES (%(user_id)s, %(title)s, %(description)s,%(instructions)s,%(date_cooked)s,%(under_30_min)s)
             """
         results = connectToMySQL("recipes_schema").query_db(query,data)
-
+        return results
     @classmethod
     def update_recipe (cls,data):
         query = """

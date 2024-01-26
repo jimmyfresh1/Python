@@ -1,0 +1,17 @@
+1	2	I saw it	My bedroom	1998-10-05	3	All of them were dancing. It was scary	0	2024-01-24 13:47:55	2024-01-24 13:47:55	2	Secundus	Secondplace	second2@gmail.com	$2b$12$gzrvIOXTxKFJYdzXZXcSl.rJimggYOwKkYBKldx.lVeMfjDWae7qO	2024-01-24 12:49:28	2024-01-24 12:49:28
+2	3	They	Roswell	2024-01-15	10	Sometimes33333,	3	2024-01-24 13:48:50	2024-01-24 16:45:16	3	Tertiary	Thirdplace	third3@gmail.com	$2b$12$CosoK70P1nTmddTru8WShubYyZXNeDUMEz.5ix/IzZ1VMc9CSRH1e	2024-01-24 13:20:37	2024-01-24 13:20:37
+3	3	Ten tw	Out	2024-01-19	4	Here there are	3	2024-01-24 16:08:54	2024-01-24 16:46:57	3	Tertiary	Thirdplace	third3@gmail.com	$2b$12$CosoK70P1nTmddTru8WShubYyZXNeDUMEz.5ix/IzZ1VMc9CSRH1e	2024-01-24 13:20:37	2024-01-24 13:20:37
+4	3	dsda	dwadwadwdwa	2024-01-02	3	feawdwad	3	2024-01-24 16:24:14	2024-01-24 16:24:14	3	Tertiary	Thirdplace	third3@gmail.com	$2b$12$CosoK70P1nTmddTru8WShubYyZXNeDUMEz.5ix/IzZ1VMc9CSRH1e	2024-01-24 13:20:37	2024-01-24 13:20:37
+5	4	Here'sbanana	Whereverbanana	2024-01-11	4	Something	3	2024-01-24 17:02:35	2024-01-24 17:07:21	4	Chopper	Cottoncandy
+
+	chopper@one.piece	$2b$12$/HYIxlqK2v7qQS5WOh0Lju7LaSUW2cvvbPyXjMp7jZrH15gPSDBeC	2024-01-24 16:57:55	2024-01-24 16:57:55
+
+
+INSERT into posts (user_id, title, location, date_sighted, num_sasquatches, description, skeptics, created_at, updated_at)
+VALUES (1,"First Sighting", "Roswell", "1994-10-05", "3", "It was really scary", "1", NOW(), NOW())
+
+INSERT INTO users (first_name, last_name, email, password, created_at, updated_at)
+VALUES ("James2", "Fern2", "test2@test.com", "Pass1!", NOW(), NOW())
+
+INSERT INTO users (first_name, last_name, email, password, created_at, updated_at)
+VALUES ("James", "Fern", "test@test.com", "Pass1!", NOW(), NOW())
