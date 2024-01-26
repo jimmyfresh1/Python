@@ -21,47 +21,47 @@
                 <a href="/logout" class="mx-4">Logout</a>
             </div>
         </div>
-        <form action="/recipes/edit/submit" method="POST" class="d-flex flex-row justify-content-around">
+        <form action="/recipes/{{recipe.id}}/edit/update" method="POST" class="d-flex flex-row justify-content-around">
             <div class="col-6">
                 <H2>When you messed up the first time</H2>
 
                 <div class="d-flex flex-row">
                     <div class="col-4"><label for="title">title</label></div>
-                    <div class="col-8"><input type="text" name="title"></div>
+                    <div class="col-8"><input type="text" name="title" value="{{recipe.title}}"></div>
                 </div>
                 <br>
                 <div class="d-flex flex-row">
                     <div class="col-4"><label for="description">Description</label></div>
-                    <div class="col-8"><input type="text" style="height:50px" name="description"></div>
+                    <div class="col-8"><input type="text" style="height:50px" name="description" value="{{recipe.description}}"></div>
                 </div>
                 <br>
                 <div class="d-flex flex-row">
                     <div class="col-4"><label for="instructions">Instructions</label></div>
-                    <div class="col-8"><input type="text" style="height:80px" name="instructions"></div>
+                    <div class="col-8"><input type="text" style="height:80px" name="instructions" value ={{recipe.instructions}}></div>
                 </div>
+                {% with messages = get_flashed_messages(category_filter=["recipes"])%}
+                {% if messages %}
+                {% for message in messages %}
+                <h6>{{message}}</h6>
+                {% endfor %}
+                {% endif %}
+                {% endwith %}
             </div>
 
-            {% with messages = get_flashed_messages(category_filter=["recipes"])%}
-            {% if messages %}
-            {% for message in messages %}
-            <h3>{{message}}<h3>
-            {% endfor %}
-            {% endif %}
-            {% endwith %}
+
             <div class="col-3">
                 <H2>Date Cooked</H2>
                 <div class=" p-3 border border-dark border-3">
                     <h3>When?</h3>
-                    <input type="date" name="date_cooked" id="date">
+                    <input type="date" name="date_cooked" id="date" value="{{recipe.date_cooked}}">
                 </div>
                 <div class=" p-3 border border-dark border-3">
                     <h3>Under thirty min?</h3>
                     <label for="thirty1">Yes</label>
-                    <input type="radio" name="under_30_min" id="thirty1" value="Yes">
-                    <label for="thirty2">No</label>
-                    <input type="radio" name="under_30_min" id="thirty2" value="No">
+                    <input type="radio" name="under_30_min" id="thirty1" value="Yes" {% if recipe.under_30_min == 'Yes' %}checked{% endif %}>                    <label for="thirty2">No</label>
+                    <input type="radio" name="under_30_min" id="thirty2" value="No" {% if recipe.under_30_min == 'No' %}checked{% endif %}>                </div>
+                    <input type="submit" value="Submit Edits">
                 </div>
-            </div>
         </form>
     </div>
 </body>

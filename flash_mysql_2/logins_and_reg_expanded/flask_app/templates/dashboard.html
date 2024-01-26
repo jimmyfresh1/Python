@@ -17,7 +17,7 @@
                 <h3>here's a list of recipes</h3>
             </div>
             <div class=" border border-dark border-3 d-inline-flex ">
-                <a href="/recipes/new/" class="mx-4 ">Create</a>
+                <a href="/recipes/new" class="mx-4 ">Create</a>
                 
                 <a href="/logout" class= "mx-4" >Logout</a>
             </div>
@@ -33,7 +33,20 @@
                         <th>Posted By</th>
                         <th>Actions </th>
                     </thead>
-                    
+                    {% for recipe in recipes %}
+                    <tr>
+                        <td>{{recipe.title}}</td>
+                        <td>{{recipe.under_30_min}}</td>
+                        <td>{{recipe.creator.first_name}}</td>
+                        <td>
+                            <a href="/recipes/{{recipe.id}}">view</a>
+                        </td>
+                        {% if recipe.creator.id == user_id %}
+                        <td><a href="/recipes/{{recipe.id}}/edit">edit</a></td>
+                        <td><a href="/recipes/{{recipe.id}}/delete">delete</a></td>
+                        {% endif %}
+                    </tr>
+                    {% endfor %}
 
                 </table>
             </div>

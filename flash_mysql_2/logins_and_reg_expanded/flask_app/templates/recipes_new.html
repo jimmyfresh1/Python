@@ -22,7 +22,7 @@
             </div>
 
         </div>
-        <form action="/recipes/edit/submit" method="POST" class="d-flex flex-row justify-content-around">
+        <form action="/recipes/new/submit" method="POST" class="d-flex flex-row justify-content-around">
             <div class="col-6">
                 <H2>Don't you dare leave a blank description</H2>
                 
@@ -40,16 +40,17 @@
                     <div class="col-4"><label for="instructions">Instructions</label></div>               
                     <div class="col-8"><input type="text" style="height:80px" name="instructions"></div>
                 </div>
-    
+                <input type="submit" value="Submit">
+                {% with messages = get_flashed_messages(category_filter=["recipes"])%}
+                {% if messages %}
+                {% for message in messages %}
+                <h6>{{message}}<h6>
+                {% endfor %}
+                {% endif %}
+                {% endwith %}
                     </div>
 
-                    {% with messages = get_flashed_messages(category_filter=["recipes"])%}
-                    {% if messages %}
-                    {% for message in messages %}
-                    <h3>{{message}}<h3>
-                    {% endfor %}
-                    {% endif %}
-                    {% endwith %}
+
             <div class="col-3">
                 <H2>Date Cooked</H2>
                 <div class=" p-3 border border-dark border-3">

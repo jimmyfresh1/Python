@@ -3,6 +3,7 @@ from flask_app import app
 from flask_app.models.user_model import User
 from flask_bcrypt import Bcrypt
 bcrypt=Bcrypt(app)
+from flask_app.models.post_model import Recipe
 
 @app.route('/')
 def index():
@@ -44,16 +45,13 @@ def login():
 @app.route('/dashboard')
 def dashboard():
     if 'user_id' in session:
-        print("The id was in session!")
         user_id=session['user_id']
-        print(user_id)
-        print(session['user_id'])
         data1 = {
             'user_id':user_id
         }
-        print(data1)
         current_user= User.get_user_by_id(data1)
-        return render_template("dashboard.html", current_user=current_user)
+        recipes=Recipe.get_all_recipes()
+        return render_template("dashboard.html", current_user=current_user, recipes=recipes, user_id=user_id)
     else:
         print("the id WAS NOT IN SESSION")
         return redirect('/')
