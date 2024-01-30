@@ -1,0 +1,22 @@
+.football-field-container {
+    position: relative; /* This enables absolute positioning for child elements */
+    width: 1000px; /* Set this to the width of your football field image */
+    height: 690px; /* Set this to the height of your football field image */
+}
+
+.football-field {
+    width: 100%;
+    height: auto;
+    display: block; /* This removes any extra space below the image */
+}
+
+.red-line {
+    position: absolute;
+    top: 150px;
+    bottom: 147px;
+    width: 3px; /* Width of the red line */
+    margin-top:8px;
+    background-color: red;
+    /* The 'left' property determines the position of the red line. */
+    /* You'll set this dynamically based on where you want the line to appear. */
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Football Field</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="football-field-container">
+        <img src="{{ url_for('static', filename='football_field.png') }}" alt="Football Field" class="football-field">
+        <div class="red-line" style="left: {{ yard }}%;"></div> <!-- The red line position will be set dynamically -->
+    </div>
+
+</body>
+</html>

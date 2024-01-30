@@ -1,0 +1,515 @@
+This is play 0
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 8
+Post Calc Final modifier was 0
+This play gained 2 yards
+This is play 1
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 9
+Post Calc Final modifier was -1
+This play gained 3 yards
+This is play 2
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 6
+Post Calc Final modifier was 2
+This play gained 9 yards
+This is play 3
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 6
+Post Calc Final modifier was 2
+This play gained 10 yards
+This is play 4
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 8
+Post Calc Final modifier was 0
+This play gained 8 yards
+This is play 5
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 9
+Post Calc Final modifier was 2
+This play gained 11 yards
+This is play 6
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 5
+Post Calc Final modifier was 2
+This play gained 6 yards
+This is play 7
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 5
+Post Calc Final modifier was 6
+This play gained 11 yards
+This is play 8
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 5
+Post Calc Final modifier was 5
+This play gained 10 yards
+This is play 9
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 8
+Post Calc Final modifier was 0
+This play gained 0 yards
+This is play 10
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 6
+Post Calc Final modifier was 4
+This play gained 5 yards
+This is play 11
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 6
+Post Calc Final modifier was 2
+This play gained 8 yards
+This is play 12
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 6
+Post Calc Final modifier was 3
+This play gained 6 yards
+This is play 13
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 7
+Post Calc Final modifier was 0
+This play gained 0 yards
+This is play 14
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 7
+Post Calc Final modifier was 3
+This play gained 5 yards
+This is play 15
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 7
+Post Calc Final modifier was 2
+This play gained 10 yards
+This is play 16
+Post Calc Offense modifier was 0
+Post Calc defense modifier was 3
+Post Calc Final modifier was -3
+This play gained 4 yards
+This is play 17
+Post Calc Offense modifier was 0
+Post Calc defense modifier was 2
+Post Calc Final modifier was -2
+This play gained 8 yards
+This is play 18
+Post Calc Offense modifier was 4
+Post Calc defense modifier was 4
+Post Calc Final modifier was 0
+This play gained 3 yards
+This is play 19
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 3
+Post Calc Final modifier was -2
+This play gained 0 yards
+This is play 20
+Post Calc Offense modifier was 4
+Post Calc defense modifier was 3
+Post Calc Final modifier was 1
+This play gained 7 yards
+This is play 21
+Post Calc Offense modifier was 2
+Post Calc defense modifier was 4
+Post Calc Final modifier was -2
+This play gained 1 yards
+This is play 22
+Post Calc Offense modifier was 4
+Post Calc defense modifier was 4
+Post Calc Final modifier was 0
+This play gained 1 yards
+This is play 23
+Post Calc Offense modifier was 0
+Post Calc defense modifier was 1
+Post Calc Final modifier was -1
+This play gained 9 yards
+This is play 24
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 5
+Post Calc Final modifier was -4
+This play gained 5 yards
+This is play 25
+Post Calc Offense modifier was 2
+Post Calc defense modifier was 4
+Post Calc Final modifier was -2
+This play gained 0 yards
+This is play 26
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 3
+Post Calc Final modifier was 0
+This play gained 3 yards
+This is play 27
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 3
+Post Calc Final modifier was -2
+This play gained 6 yards
+This is play 28
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 1
+Post Calc Final modifier was 0
+This play gained 3 yards
+This is play 29
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 1
+Post Calc Final modifier was 2
+This play gained 7 yards
+This is play 30
+Post Calc Offense modifier was 0
+Post Calc defense modifier was 4
+Post Calc Final modifier was -4
+This play gained 0 yards
+This is play 31
+Post Calc Offense modifier was 2
+Post Calc defense modifier was 4
+Post Calc Final modifier was -2
+This play gained 7 yards
+This is play 32
+Post Calc Offense modifier was 4
+Post Calc defense modifier was 1
+Post Calc Final modifier was 3
+This play gained 11 yards
+This is play 33
+Post Calc Offense modifier was 0
+Post Calc defense modifier was 2
+Post Calc Final modifier was -2
+This play gained 6 yards
+This is play 34
+Post Calc Offense modifier was 2
+Post Calc defense modifier was 5
+Post Calc Final modifier was -3
+This play gained 6 yards
+This is play 35
+Post Calc Offense modifier was 4
+Post Calc defense modifier was 4
+Post Calc Final modifier was 0
+This play gained 9 yards
+This is play 36
+Post Calc Offense modifier was 2
+Post Calc defense modifier was 5
+Post Calc Final modifier was -3
+This play gained 0 yards
+This is play 37
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 3
+Post Calc Final modifier was 0
+This play gained 10 yards
+This is play 38
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 5
+Post Calc Final modifier was 6
+This play gained 9 yards
+This is play 39
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 6
+Post Calc Final modifier was 4
+This play gained 14 yards
+This is play 40
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 8
+Post Calc Final modifier was 3
+This play gained 10 yards
+This is play 41
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 6
+Post Calc Final modifier was 3
+This play gained 12 yards
+This is play 42
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 7
+Post Calc Final modifier was 4
+This play gained 10 yards
+This is play 43
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 8
+Post Calc Final modifier was 2
+This play gained 8 yards
+This is play 44
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 9
+Post Calc Final modifier was 1
+This play gained 4 yards
+This is play 45
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 7
+Post Calc Final modifier was 1
+This play gained 4 yards
+This is play 46
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 6
+Post Calc Final modifier was 2
+This play gained 7 yards
+This is play 47
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 8
+Post Calc Final modifier was 1
+This play gained 5 yards
+This is play 48
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 7
+Post Calc Final modifier was 4
+This play gained 13 yards
+This is play 49
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 8
+Post Calc Final modifier was -1
+This play gained 2 yards
+This is play 50
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 9
+Post Calc Final modifier was 0
+This play gained 2 yards
+This is play 51
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 2
+Post Calc Final modifier was -1
+This play gained 2 yards
+This is play 52
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 5
+Post Calc Final modifier was -4
+This play gained 0 yards
+This is play 53
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 8
+Post Calc Final modifier was 0
+This play gained 2 yards
+This is play 54
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 8
+Post Calc Final modifier was 0
+This play gained 9 yards
+This is play 55
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 5
+Post Calc Final modifier was 5
+This play gained 14 yards
+This is play 56
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 6
+Post Calc Final modifier was 2
+This play gained 5 yards
+This is play 57
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 5
+Post Calc Final modifier was 6
+This play gained 10 yards
+This is play 58
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 9
+Post Calc Final modifier was 1
+This play gained 8 yards
+This is play 59
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 7
+Post Calc Final modifier was 2
+This play gained 6 yards
+This is play 60
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 9
+Post Calc Final modifier was 2
+This play gained 6 yards
+This is play 61
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 6
+Post Calc Final modifier was 5
+This play gained 11 yards
+This is play 62
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 5
+Post Calc Final modifier was 5
+This play gained 14 yards
+This is play 63
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 6
+Post Calc Final modifier was 1
+This play gained 3 yards
+This is play 64
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 5
+Post Calc Final modifier was 3
+This play gained 7 yards
+This is play 65
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 7
+Post Calc Final modifier was 2
+This play gained 8 yards
+This is play 66
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 3
+Post Calc Final modifier was -2
+This play gained 0 yards
+This is play 67
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 1
+Post Calc Final modifier was 0
+This play gained 3 yards
+This is play 68
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 5
+Post Calc Final modifier was -2
+This play gained 0 yards
+This is play 69
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 3
+Post Calc Final modifier was 0
+This play gained 1 yards
+This is play 70
+Post Calc Offense modifier was 4
+Post Calc defense modifier was 3
+Post Calc Final modifier was 1
+This play gained 9 yards
+This is play 71
+Post Calc Offense modifier was 2
+Post Calc defense modifier was 5
+Post Calc Final modifier was -3
+This play gained 0 yards
+This is play 72
+Post Calc Offense modifier was 2
+Post Calc defense modifier was 5
+Post Calc Final modifier was -3
+This play gained 3 yards
+This is play 73
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 3
+Post Calc Final modifier was 0
+This play gained 4 yards
+This is play 74
+Post Calc Offense modifier was 1
+Post Calc defense modifier was 2
+Post Calc Final modifier was -1
+This play gained 0 yards
+This is play 75
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 7
+Post Calc Final modifier was 2
+This play gained 7 yards
+This is play 76
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 8
+Post Calc Final modifier was 0
+This play gained 1 yards
+This is play 77
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 9
+Post Calc Final modifier was -1
+This play gained 0 yards
+This is play 78
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 7
+Post Calc Final modifier was 1
+This play gained 7 yards
+This is play 79
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 7
+Post Calc Final modifier was 4
+This play gained 5 yards
+This is play 80
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 7
+Post Calc Final modifier was 2
+This play gained 11 yards
+This is play 81
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 9
+Post Calc Final modifier was 1
+This play gained 5 yards
+This is play 82
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 7
+Post Calc Final modifier was 3
+This play gained 13 yards
+This is play 83
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 5
+Post Calc Final modifier was 5
+This play gained 10 yards
+This is play 84
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 7
+Post Calc Final modifier was 2
+This play gained 9 yards
+This is play 85
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 7
+Post Calc Final modifier was 4
+This play gained 8 yards
+This is play 86
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 9
+Post Calc Final modifier was -2
+This play gained 5 yards
+This is play 87
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 8
+Post Calc Final modifier was -1
+This play gained 4 yards
+This is play 88
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 9
+Post Calc Final modifier was 1
+This play gained 5 yards
+This is play 89
+Post Calc Offense modifier was 8
+Post Calc defense modifier was 5
+Post Calc Final modifier was 3
+This play gained 13 yards
+This is play 90
+Post Calc Offense modifier was 0
+Post Calc defense modifier was 5
+Post Calc Final modifier was -5
+This play gained 3 yards
+This is play 91
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 5
+Post Calc Final modifier was -2
+This play gained 1 yards
+This is play 92
+Post Calc Offense modifier was 0
+Post Calc defense modifier was 5
+Post Calc Final modifier was -5
+This play gained 1 yards
+This is play 93
+Post Calc Offense modifier was 3
+Post Calc defense modifier was 4
+Post Calc Final modifier was -1
+This play gained 3 yards
+This is play 94
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 7
+Post Calc Final modifier was 0
+This play gained 4 yards
+This is play 95
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 6
+Post Calc Final modifier was 1
+This play gained 8 yards
+This is play 96
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 5
+Post Calc Final modifier was 6
+This play gained 6 yards
+This is play 97
+Post Calc Offense modifier was 9
+Post Calc defense modifier was 8
+Post Calc Final modifier was 1
+This play gained 5 yards
+This is play 98
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 9
+Post Calc Final modifier was 1
+This play gained 3 yards
+This is play 99
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 8
+Post Calc Final modifier was 2
+This play gained 5 yards
+This is play 100
+Post Calc Offense modifier was 11
+Post Calc defense modifier was 7
+Post Calc Final modifier was 4
+This play gained 10 yards
+This is play 101
+Post Calc Offense modifier was 10
+Post Calc defense modifier was 8
+Post Calc Final modifier was 2
+This play gained 3 yards
+This is play 102
+Post Calc Offense modifier was 7
+Post Calc defense modifier was 8
+Post Calc Final modifier was -1
+This play gained 5 yards

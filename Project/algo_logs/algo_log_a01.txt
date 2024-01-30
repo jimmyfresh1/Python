@@ -1,0 +1,721 @@
+This is play 0
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 8 yards
+This is play 1
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 12 yards
+This is play 2
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 4 yards
+This is play 3
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 12 yards
+This is play 4
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 5
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 6
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 4 yards
+This is play 7
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 2 yards
+This is play 8
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 9
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 7 yards
+This is play 10
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 11
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 6 yards
+This is play 12
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 6 yards
+This is play 13
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 7 yards
+This is play 14
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 9 yards
+This is play 15
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 9 yards
+This is play 16
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 2 yards
+This is play 17
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 8 yards
+This is play 18
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 19
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 4 yards
+This is play 20
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 5 yards
+This is play 21
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 3 yards
+This is play 22
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 4 yards
+This is play 23
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 2 yards
+This is play 24
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 7 yards
+This is play 25
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 4 yards
+This is play 26
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 27
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 0 yards
+This is play 28
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 4 yards
+This is play 29
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 30
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 2 yards
+This is play 31
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 12 yards
+This is play 32
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 6 yards
+This is play 33
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 10 yards
+This is play 34
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 6 yards
+This is play 35
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 9 yards
+This is play 36
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 4 yards
+This is play 37
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 12 yards
+This is play 38
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 7 yards
+This is play 39
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 9 yards
+This is play 40
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 41
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 8 yards
+This is play 42
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 10 yards
+This is play 43
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 44
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 8 yards
+This is play 45
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 6 yards
+This is play 46
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 3 yards
+This is play 47
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 7 yards
+This is play 48
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 0 yards
+This is play 49
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 3 yards
+This is play 50
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 9 yards
+This is play 51
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 0 yards
+This is play 52
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 53
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 9 yards
+This is play 54
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 4 yards
+This is play 55
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 9 yards
+This is play 56
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 5 yards
+This is play 57
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 8 yards
+This is play 58
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 8 yards
+This is play 59
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 7 yards
+This is play 60
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 6 yards
+This is play 61
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 9 yards
+This is play 62
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 7 yards
+This is play 63
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 64
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 65
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 9 yards
+This is play 66
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 67
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 68
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 10 yards
+This is play 69
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 5 yards
+This is play 70
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 2 yards
+This is play 71
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 5 yards
+This is play 72
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 5 yards
+This is play 73
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 12 yards
+This is play 74
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 75
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 9 yards
+This is play 76
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 77
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 4 yards
+This is play 78
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 8 yards
+This is play 79
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 80
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 1 yards
+This is play 81
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 3 yards
+This is play 82
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 4 yards
+This is play 83
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 2 yards
+This is play 84
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 5 yards
+This is play 85
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 8 yards
+This is play 86
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 87
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 88
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 5 yards
+This is play 89
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 9 yards
+This is play 90
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 11 yards
+This is play 91
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 92
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 93
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 94
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 10 yards
+This is play 95
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 2 yards
+This is play 96
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 2 yards
+This is play 97
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 5 yards
+This is play 98
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 12 yards
+This is play 99
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 3 yards
+This is play 100
+Offense is was 9
+Defense is was 7
+Modifier was 2
+Low end was 2
+High end was 12
+This play gained 8 yards
+This is play 101
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 3 yards
+This is play 102
+Offense is was 2
+Defense is was 3
+Modifier was -1
+Low end was 0
+High end was 9
+This play gained 3 yards

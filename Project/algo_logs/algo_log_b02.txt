@@ -1,0 +1,510 @@
+This is play 0
+Complex Range Offense modifier was 7
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 0
+This play gained 0 yards
+This is play 1
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 2
+This play gained 2 yards
+This is play 2
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 2
+This play gained 12 yards
+This is play 3
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 5
+This play gained 8 yards
+This is play 4
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 9
+Complex Range Final modifier was -1
+This play gained 7 yards
+This is play 5
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 6
+This play gained 9 yards
+This is play 6
+Complex Range Offense modifier was 7
+Complex Range Defense modifier was 9
+Complex Range Final modifier was -2
+This play gained 8 yards
+This is play 7
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 9
+Complex Range Final modifier was -1
+This play gained 6 yards
+This is play 8
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 6
+This play gained 14 yards
+This is play 9
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 0
+This play gained 4 yards
+This is play 10
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 3
+This play gained 5 yards
+This is play 11
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 0
+This play gained 1 yards
+This is play 12
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 0
+This play gained 1 yards
+This is play 13
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 6
+This play gained 15 yards
+This is play 14
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 3
+This play gained 10 yards
+This is play 15
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 2
+Complex Range Final modifier was 1
+This play gained 3 yards
+This is play 16
+Complex Range Offense modifier was 0
+Complex Range Defense modifier was 2
+Complex Range Final modifier was -2
+This play gained 3 yards
+This is play 17
+Complex Range Offense modifier was 4
+Complex Range Defense modifier was 1
+Complex Range Final modifier was 3
+This play gained 5 yards
+This is play 18
+Complex Range Offense modifier was 2
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -3
+This play gained 0 yards
+This is play 19
+Complex Range Offense modifier was 0
+Complex Range Defense modifier was 1
+Complex Range Final modifier was -1
+This play gained 2 yards
+This is play 20
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 1
+Complex Range Final modifier was 0
+This play gained 7 yards
+This is play 21
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -4
+This play gained 2 yards
+This is play 22
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -4
+This play gained 6 yards
+This is play 23
+Complex Range Offense modifier was 4
+Complex Range Defense modifier was 2
+Complex Range Final modifier was 2
+This play gained 5 yards
+This is play 24
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -4
+This play gained 0 yards
+This is play 25
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -4
+This play gained 2 yards
+This is play 26
+Complex Range Offense modifier was 4
+Complex Range Defense modifier was 4
+Complex Range Final modifier was 0
+This play gained 0 yards
+This is play 27
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -4
+This play gained 5 yards
+This is play 28
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 0
+This play gained 8 yards
+This is play 29
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 0
+This play gained 9 yards
+This is play 30
+Complex Range Offense modifier was 7
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 1
+This play gained 3 yards
+This is play 31
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 0
+This play gained 8 yards
+This is play 32
+Complex Range Offense modifier was 7
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 0
+This play gained 2 yards
+This is play 33
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 2
+This play gained 10 yards
+This is play 34
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 2
+This play gained 12 yards
+This is play 35
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 2
+This play gained 6 yards
+This is play 36
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 2
+This play gained 3 yards
+This is play 37
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 4
+This play gained 7 yards
+This is play 38
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 3
+This play gained 4 yards
+This is play 39
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 1
+This play gained 3 yards
+This is play 40
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 4
+This play gained 7 yards
+This is play 41
+Complex Range Offense modifier was 7
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 1
+This play gained 5 yards
+This is play 42
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 1
+This play gained 4 yards
+This is play 43
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 3
+This play gained 10 yards
+This is play 44
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 4
+Complex Range Final modifier was -3
+This play gained 1 yards
+This is play 45
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 3
+Complex Range Final modifier was -2
+This play gained 0 yards
+This is play 46
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 1
+Complex Range Final modifier was 2
+This play gained 10 yards
+This is play 47
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 3
+Complex Range Final modifier was -2
+This play gained 5 yards
+This is play 48
+Complex Range Offense modifier was 2
+Complex Range Defense modifier was 1
+Complex Range Final modifier was 1
+This play gained 6 yards
+This is play 49
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 1
+Complex Range Final modifier was 2
+This play gained 12 yards
+This is play 50
+Complex Range Offense modifier was 0
+Complex Range Defense modifier was 1
+Complex Range Final modifier was -1
+This play gained 7 yards
+This is play 51
+Complex Range Offense modifier was 2
+Complex Range Defense modifier was 1
+Complex Range Final modifier was 1
+This play gained 11 yards
+This is play 52
+Complex Range Offense modifier was 2
+Complex Range Defense modifier was 3
+Complex Range Final modifier was -1
+This play gained 6 yards
+This is play 53
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 1
+Complex Range Final modifier was 2
+This play gained 2 yards
+This is play 54
+Complex Range Offense modifier was 4
+Complex Range Defense modifier was 2
+Complex Range Final modifier was 2
+This play gained 6 yards
+This is play 55
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 4
+Complex Range Final modifier was -3
+This play gained 5 yards
+This is play 56
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 3
+Complex Range Final modifier was 0
+This play gained 4 yards
+This is play 57
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 2
+Complex Range Final modifier was -1
+This play gained 2 yards
+This is play 58
+Complex Range Offense modifier was 4
+Complex Range Defense modifier was 2
+Complex Range Final modifier was 2
+This play gained 3 yards
+This is play 59
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 4
+Complex Range Final modifier was -3
+This play gained 1 yards
+This is play 60
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 4
+Complex Range Final modifier was -1
+This play gained 7 yards
+This is play 61
+Complex Range Offense modifier was 4
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -1
+This play gained 6 yards
+This is play 62
+Complex Range Offense modifier was 0
+Complex Range Defense modifier was 4
+Complex Range Final modifier was -4
+This play gained 0 yards
+This is play 63
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -2
+This play gained 4 yards
+This is play 64
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -2
+This play gained 4 yards
+This is play 65
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 1
+This play gained 3 yards
+This is play 66
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 1
+This play gained 4 yards
+This is play 67
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 5
+This play gained 12 yards
+This is play 68
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 4
+This play gained 13 yards
+This is play 69
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 4
+This play gained 12 yards
+This is play 70
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 0
+This play gained 0 yards
+This is play 71
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 6
+This play gained 9 yards
+This is play 72
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 1
+This play gained 11 yards
+This is play 73
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 1
+This play gained 8 yards
+This is play 74
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 2
+This play gained 3 yards
+This is play 75
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 3
+This play gained 10 yards
+This is play 76
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 3
+This play gained 11 yards
+This is play 77
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 0
+This play gained 0 yards
+This is play 78
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 3
+This play gained 6 yards
+This is play 79
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 2
+Complex Range Final modifier was 1
+This play gained 10 yards
+This is play 80
+Complex Range Offense modifier was 3
+Complex Range Defense modifier was 2
+Complex Range Final modifier was 1
+This play gained 4 yards
+This is play 81
+Complex Range Offense modifier was 1
+Complex Range Defense modifier was 4
+Complex Range Final modifier was -3
+This play gained 0 yards
+This is play 82
+Complex Range Offense modifier was 0
+Complex Range Defense modifier was 2
+Complex Range Final modifier was -2
+This play gained 0 yards
+This is play 83
+Complex Range Offense modifier was 0
+Complex Range Defense modifier was 5
+Complex Range Final modifier was -5
+This play gained 0 yards
+This is play 84
+Complex Range Offense modifier was 7
+Complex Range Defense modifier was 9
+Complex Range Final modifier was -2
+This play gained 8 yards
+This is play 85
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 1
+This play gained 1 yards
+This is play 86
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 2
+This play gained 5 yards
+This is play 87
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 2
+This play gained 3 yards
+This is play 88
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 3
+This play gained 8 yards
+This is play 89
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 1
+This play gained 1 yards
+This is play 90
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 9
+Complex Range Final modifier was 1
+This play gained 2 yards
+This is play 91
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 1
+This play gained 6 yards
+This is play 92
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 8
+Complex Range Final modifier was 1
+This play gained 10 yards
+This is play 93
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 2
+This play gained 3 yards
+This is play 94
+Complex Range Offense modifier was 9
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 4
+This play gained 12 yards
+This is play 95
+Complex Range Offense modifier was 10
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 3
+This play gained 11 yards
+This is play 96
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 7
+Complex Range Final modifier was 4
+This play gained 7 yards
+This is play 97
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 3
+This play gained 12 yards
+This is play 98
+Complex Range Offense modifier was 8
+Complex Range Defense modifier was 5
+Complex Range Final modifier was 3
+This play gained 5 yards
+This is play 99
+Complex Range Offense modifier was 7
+Complex Range Defense modifier was 8
+Complex Range Final modifier was -1
+This play gained 4 yards
+This is play 100
+Complex Range Offense modifier was 11
+Complex Range Defense modifier was 6
+Complex Range Final modifier was 5
+This play gained 8 yards
+This is play 101
+Complex Range Offense modifier was 2
+Complex Range Defense modifier was 2
+Complex Range Final modifier was 0
+This play gained 8 yards

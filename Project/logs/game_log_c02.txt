@@ -1,0 +1,580 @@
+This is play 0
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 30 seconds and gained 2 yards!
+There are now 8 yards to gain! The current down is now 2!
+Time left: 00:59:30
+Yards left: 98
+This is play 1
+Team Fighting Ducks play took off 34 seconds and gained 3 yards!
+There are now 5 yards to gain! The current down is now 3!
+Time left: 00:58:56
+Yards left: 95
+This is play 2
+Team Fighting Ducks play took off 36 seconds and gained 9 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:58:20
+Yards left: 86
+This is play 3
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 31 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:57:49
+Yards left: 76
+This is play 4
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 40 seconds and gained 8 yards!
+There are now 2 yards to gain! The current down is now 2!
+Time left: 00:57:09
+Yards left: 68
+This is play 5
+Team Fighting Ducks play took off 30 seconds and gained 11 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:56:39
+Yards left: 57
+This is play 6
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 34 seconds and gained 6 yards!
+There are now 4 yards to gain! The current down is now 2!
+Time left: 00:56:05
+Yards left: 51
+This is play 7
+Team Fighting Ducks play took off 38 seconds and gained 11 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:55:27
+Yards left: 40
+This is play 8
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 40 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:54:47
+Yards left: 30
+This is play 9
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 31 seconds and gained 0 yards!
+There are now 10 yards to gain! The current down is now 2!
+Time left: 00:54:16
+Yards left: 30
+This is play 10
+There are 10 yards to gain! The current down is 2!
+Team Fighting Ducks play took off 34 seconds and gained 5 yards!
+There are now 5 yards to gain! The current down is now 3!
+Time left: 00:53:42
+Yards left: 25
+This is play 11
+Team Fighting Ducks play took off 32 seconds and gained 8 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:53:10
+Yards left: 17
+This is play 12
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 32 seconds and gained 6 yards!
+There are now 4 yards to gain! The current down is now 2!
+Time left: 00:52:38
+Yards left: 11
+This is play 13
+Team Fighting Ducks play took off 36 seconds and gained 0 yards!
+There are now 4 yards to gain! The current down is now 3!
+Time left: 00:52:02
+Yards left: 11
+This is play 14
+Team Fighting Ducks play took off 38 seconds and gained 5 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:51:24
+Yards left: 6
+This is play 15
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 31 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:50:53
+Yards left: -4
+Team Fighting Ducks scored!!
+Team Fighting Ducks's score is now 7
+This is play 16
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 39 seconds and gained 4 yards!
+There are now 6 yards to gain! The current down is now 2!
+Time left: 00:50:14
+Yards left: 96
+This is play 17
+Team Dying Ducks play took off 32 seconds and gained 8 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:49:42
+Yards left: 88
+This is play 18
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 31 seconds and gained 3 yards!
+There are now 7 yards to gain! The current down is now 2!
+Time left: 00:49:11
+Yards left: 85
+This is play 19
+Team Dying Ducks play took off 38 seconds and gained 0 yards!
+There are now 7 yards to gain! The current down is now 3!
+Time left: 00:48:33
+Yards left: 85
+This is play 20
+Team Dying Ducks play took off 36 seconds and gained 7 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:47:57
+Yards left: 78
+This is play 21
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 38 seconds and gained 1 yards!
+There are now 9 yards to gain! The current down is now 2!
+Time left: 00:47:19
+Yards left: 77
+This is play 22
+Team Dying Ducks play took off 40 seconds and gained 1 yards!
+There are now 8 yards to gain! The current down is now 3!
+Time left: 00:46:39
+Yards left: 76
+This is play 23
+Team Dying Ducks play took off 38 seconds and gained 9 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:46:01
+Yards left: 67
+This is play 24
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 31 seconds and gained 5 yards!
+There are now 5 yards to gain! The current down is now 2!
+Time left: 00:45:30
+Yards left: 62
+This is play 25
+Team Dying Ducks play took off 30 seconds and gained 0 yards!
+There are now 5 yards to gain! The current down is now 3!
+Time left: 00:45:00
+Yards left: 62
+This is play 26
+Team Dying Ducks play took off 31 seconds and gained 3 yards!
+There are now 2 yards to gain! The current down is now 4!
+Time left: 00:44:29
+Yards left: 59
+This is play 27
+Team Dying Ducks play took off 39 seconds and gained 6 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:43:50
+Yards left: 53
+This is play 28
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 37 seconds and gained 3 yards!
+There are now 7 yards to gain! The current down is now 2!
+Time left: 00:43:13
+Yards left: 50
+This is play 29
+Team Dying Ducks play took off 38 seconds and gained 7 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:42:35
+Yards left: 43
+This is play 30
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 39 seconds and gained 0 yards!
+There are now 10 yards to gain! The current down is now 2!
+Time left: 00:41:56
+Yards left: 43
+This is play 31
+There are 10 yards to gain! The current down is 2!
+Team Dying Ducks play took off 34 seconds and gained 7 yards!
+There are now 3 yards to gain! The current down is now 3!
+Time left: 00:41:22
+Yards left: 36
+This is play 32
+Team Dying Ducks play took off 35 seconds and gained 11 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:40:47
+Yards left: 25
+This is play 33
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 37 seconds and gained 6 yards!
+There are now 4 yards to gain! The current down is now 2!
+Time left: 00:40:10
+Yards left: 19
+This is play 34
+Team Dying Ducks play took off 36 seconds and gained 6 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:39:34
+Yards left: 13
+This is play 35
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 39 seconds and gained 9 yards!
+There are now 1 yards to gain! The current down is now 2!
+Time left: 00:38:55
+Yards left: 4
+This is play 36
+Team Dying Ducks play took off 38 seconds and gained 0 yards!
+There are now 1 yards to gain! The current down is now 3!
+Time left: 00:38:17
+Yards left: 4
+This is play 37
+Team Dying Ducks play took off 33 seconds and gained 10 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:37:44
+Yards left: -6
+Team Dying Ducks scored!!
+Team Dying Ducks's score is now 7
+This is play 38
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 35 seconds and gained 9 yards!
+There are now 1 yards to gain! The current down is now 2!
+Time left: 00:37:09
+Yards left: 91
+This is play 39
+Team Fighting Ducks play took off 38 seconds and gained 14 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:36:31
+Yards left: 77
+This is play 40
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 40 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:35:51
+Yards left: 67
+This is play 41
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 36 seconds and gained 12 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:35:15
+Yards left: 55
+This is play 42
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 33 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:34:42
+Yards left: 45
+This is play 43
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 36 seconds and gained 8 yards!
+There are now 2 yards to gain! The current down is now 2!
+Time left: 00:34:06
+Yards left: 37
+This is play 44
+Team Fighting Ducks play took off 37 seconds and gained 4 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:33:29
+Yards left: 33
+This is play 45
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 32 seconds and gained 4 yards!
+There are now 6 yards to gain! The current down is now 2!
+Time left: 00:32:57
+Yards left: 29
+This is play 46
+Team Fighting Ducks play took off 35 seconds and gained 7 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:32:22
+Yards left: 22
+This is play 47
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 37 seconds and gained 5 yards!
+There are now 5 yards to gain! The current down is now 2!
+Time left: 00:31:45
+Yards left: 17
+This is play 48
+Team Fighting Ducks play took off 30 seconds and gained 13 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:31:15
+Yards left: 4
+This is play 49
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 31 seconds and gained 2 yards!
+There are now 8 yards to gain! The current down is now 2!
+Time left: 00:30:44
+Yards left: 2
+This is play 50
+Team Fighting Ducks play took off 39 seconds and gained 2 yards!
+There are now 6 yards to gain! The current down is now 3!
+Time left: 00:30:05
+Yards left: 0
+Team Fighting Ducks scored!!
+Team Fighting Ducks's score is now 14
+This is play 51
+Team Dying Ducks play took off 34 seconds and gained 2 yards!
+There are now 4 yards to gain! The current down is now 4!
+Time left: 00:29:31
+Yards left: 98
+This is play 52
+Team Dying Ducks play took off 36 seconds and gained 0 yards!
+There are now 4 yards to gain! The current down is now 5!
+Team Dying Ducks turned the ball over!!!!
+Time left: 00:28:55
+Yards left: 100
+This is play 53
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 35 seconds and gained 2 yards!
+There are now 8 yards to gain! The current down is now 2!
+Time left: 00:28:20
+Yards left: 98
+This is play 54
+Team Fighting Ducks play took off 36 seconds and gained 9 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:27:44
+Yards left: 89
+This is play 55
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 34 seconds and gained 14 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:27:10
+Yards left: 75
+This is play 56
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 40 seconds and gained 5 yards!
+There are now 5 yards to gain! The current down is now 2!
+Time left: 00:26:30
+Yards left: 70
+This is play 57
+Team Fighting Ducks play took off 33 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:25:57
+Yards left: 60
+This is play 58
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 40 seconds and gained 8 yards!
+There are now 2 yards to gain! The current down is now 2!
+Time left: 00:25:17
+Yards left: 52
+This is play 59
+Team Fighting Ducks play took off 37 seconds and gained 6 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:24:40
+Yards left: 46
+This is play 60
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 30 seconds and gained 6 yards!
+There are now 4 yards to gain! The current down is now 2!
+Time left: 00:24:10
+Yards left: 40
+This is play 61
+Team Fighting Ducks play took off 32 seconds and gained 11 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:23:38
+Yards left: 29
+This is play 62
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 33 seconds and gained 14 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:23:05
+Yards left: 15
+This is play 63
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 34 seconds and gained 3 yards!
+There are now 7 yards to gain! The current down is now 2!
+Time left: 00:22:31
+Yards left: 12
+This is play 64
+Team Fighting Ducks play took off 31 seconds and gained 7 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:22:00
+Yards left: 5
+This is play 65
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 37 seconds and gained 8 yards!
+There are now 2 yards to gain! The current down is now 2!
+Time left: 00:21:23
+Yards left: -3
+Team Fighting Ducks scored!!
+Team Fighting Ducks's score is now 21
+This is play 66
+Team Dying Ducks play took off 40 seconds and gained 0 yards!
+There are now 2 yards to gain! The current down is now 3!
+Time left: 00:20:43
+Yards left: 100
+This is play 67
+Team Dying Ducks play took off 30 seconds and gained 3 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:20:13
+Yards left: 97
+This is play 68
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 32 seconds and gained 0 yards!
+There are now 10 yards to gain! The current down is now 2!
+Time left: 00:19:41
+Yards left: 97
+This is play 69
+There are 10 yards to gain! The current down is 2!
+Team Dying Ducks play took off 36 seconds and gained 1 yards!
+There are now 9 yards to gain! The current down is now 3!
+Time left: 00:19:05
+Yards left: 96
+This is play 70
+Team Dying Ducks play took off 35 seconds and gained 9 yards!
+Team Dying Ducks just got a first down!!!
+Time left: 00:18:30
+Yards left: 87
+This is play 71
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 36 seconds and gained 0 yards!
+There are now 10 yards to gain! The current down is now 2!
+Time left: 00:17:54
+Yards left: 87
+This is play 72
+There are 10 yards to gain! The current down is 2!
+Team Dying Ducks play took off 39 seconds and gained 3 yards!
+There are now 7 yards to gain! The current down is now 3!
+Time left: 00:17:15
+Yards left: 84
+This is play 73
+Team Dying Ducks play took off 36 seconds and gained 4 yards!
+There are now 3 yards to gain! The current down is now 4!
+Time left: 00:16:39
+Yards left: 80
+This is play 74
+Team Dying Ducks play took off 40 seconds and gained 0 yards!
+There are now 3 yards to gain! The current down is now 5!
+Team Dying Ducks turned the ball over!!!!
+Time left: 00:15:59
+Yards left: 100
+This is play 75
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 37 seconds and gained 7 yards!
+There are now 3 yards to gain! The current down is now 2!
+Time left: 00:15:22
+Yards left: 93
+This is play 76
+Team Fighting Ducks play took off 33 seconds and gained 1 yards!
+There are now 2 yards to gain! The current down is now 3!
+Time left: 00:14:49
+Yards left: 92
+This is play 77
+Team Fighting Ducks play took off 40 seconds and gained 0 yards!
+There are now 2 yards to gain! The current down is now 4!
+Time left: 00:14:09
+Yards left: 92
+This is play 78
+Team Fighting Ducks play took off 35 seconds and gained 7 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:13:34
+Yards left: 85
+This is play 79
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 35 seconds and gained 5 yards!
+There are now 5 yards to gain! The current down is now 2!
+Time left: 00:12:59
+Yards left: 80
+This is play 80
+Team Fighting Ducks play took off 35 seconds and gained 11 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:12:24
+Yards left: 69
+This is play 81
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 32 seconds and gained 5 yards!
+There are now 5 yards to gain! The current down is now 2!
+Time left: 00:11:52
+Yards left: 64
+This is play 82
+Team Fighting Ducks play took off 36 seconds and gained 13 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:11:16
+Yards left: 51
+This is play 83
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 30 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:10:46
+Yards left: 41
+This is play 84
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 37 seconds and gained 9 yards!
+There are now 1 yards to gain! The current down is now 2!
+Time left: 00:10:09
+Yards left: 32
+This is play 85
+Team Fighting Ducks play took off 40 seconds and gained 8 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:09:29
+Yards left: 24
+This is play 86
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 38 seconds and gained 5 yards!
+There are now 5 yards to gain! The current down is now 2!
+Time left: 00:08:51
+Yards left: 19
+This is play 87
+Team Fighting Ducks play took off 34 seconds and gained 4 yards!
+There are now 1 yards to gain! The current down is now 3!
+Time left: 00:08:17
+Yards left: 15
+This is play 88
+Team Fighting Ducks play took off 34 seconds and gained 5 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:07:43
+Yards left: 10
+This is play 89
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 37 seconds and gained 13 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:07:06
+Yards left: -3
+Team Fighting Ducks scored!!
+Team Fighting Ducks's score is now 28
+This is play 90
+There are 10 yards to gain! The current down is 1!
+Team Dying Ducks play took off 40 seconds and gained 3 yards!
+There are now 7 yards to gain! The current down is now 2!
+Time left: 00:06:26
+Yards left: 97
+This is play 91
+Team Dying Ducks play took off 36 seconds and gained 1 yards!
+There are now 6 yards to gain! The current down is now 3!
+Time left: 00:05:50
+Yards left: 96
+This is play 92
+Team Dying Ducks play took off 31 seconds and gained 1 yards!
+There are now 5 yards to gain! The current down is now 4!
+Time left: 00:05:19
+Yards left: 95
+This is play 93
+Team Dying Ducks play took off 36 seconds and gained 3 yards!
+There are now 2 yards to gain! The current down is now 5!
+Team Dying Ducks turned the ball over!!!!
+Time left: 00:04:43
+Yards left: 97
+This is play 94
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 40 seconds and gained 4 yards!
+There are now 6 yards to gain! The current down is now 2!
+Time left: 00:04:03
+Yards left: 93
+This is play 95
+Team Fighting Ducks play took off 31 seconds and gained 8 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:03:32
+Yards left: 85
+This is play 96
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 30 seconds and gained 6 yards!
+There are now 4 yards to gain! The current down is now 2!
+Time left: 00:03:02
+Yards left: 79
+This is play 97
+Team Fighting Ducks play took off 37 seconds and gained 5 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:02:25
+Yards left: 74
+This is play 98
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 32 seconds and gained 3 yards!
+There are now 7 yards to gain! The current down is now 2!
+Time left: 00:01:53
+Yards left: 71
+This is play 99
+Team Fighting Ducks play took off 33 seconds and gained 5 yards!
+There are now 2 yards to gain! The current down is now 3!
+Time left: 00:01:20
+Yards left: 66
+This is play 100
+Team Fighting Ducks play took off 31 seconds and gained 10 yards!
+Team Fighting Ducks just got a first down!!!
+Time left: 00:00:49
+Yards left: 56
+This is play 101
+There are 10 yards to gain! The current down is 1!
+Team Fighting Ducks play took off 31 seconds and gained 3 yards!
+There are now 7 yards to gain! The current down is now 2!
+Time left: 00:00:18
+Yards left: 53
+This is play 102
+Team Fighting Ducks play took off 35 seconds and gained 5 yards!
+There are now 2 yards to gain! The current down is now 3!
+Time left: -1:59:43
+Yards left: 48
+Game Over! Final scores: Team 1 - 28, Team 2 - 7
+Team 1 wins!
